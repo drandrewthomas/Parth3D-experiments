@@ -1,6 +1,6 @@
 # Converting side-by-side (SBS) 3D images to anaglyphs using Python 3
 
-Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that shows how to convert a side-by-side (SBS) image to an anaglyph in Python 3 using the Python Imaging Library Pillow. It has been tested on Android using PyDroid3 so should also be suitable for mobile coding.
+Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that shows how to convert a side-by-side (SBS) image to a red/cyan anaglyph in Python 3 using the Python Imaging Library Pillow. It has been tested on Android using PyDroid3 so should also be suitable for mobile coding.
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
