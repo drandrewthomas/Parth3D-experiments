@@ -1,17 +1,14 @@
 from PIL import Image
 
-#sbs = Image.open("beetle.jpg")
-#sbs = Image.open("cosfordplane.jpg")
-#sbs = Image.open("eglwysyberth.jpg")
 sbs = Image.open("druidscircle.jpg")
-#sbs = Image.open("bryncelliddu.jpg")
-#sbs = Image.open("uosapmm.jpg")
 sbsw, sbsh = sbs.size
-aglw = int(sbsw/2)
 
+aglw = int(sbsw/2)
 agl = Image.new("RGBA",(aglw,sbsh),(255,255,255,255))
+
 sbspix = sbs.load()
 aglpix = agl.load()
+
 for y in range(0, sbsh):
     for x in range(0, aglw):
         left = sbspix[x, y]
