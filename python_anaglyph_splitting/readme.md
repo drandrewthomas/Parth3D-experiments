@@ -6,6 +6,6 @@ The code here was provided in a Parth3D blog post which you can find at the foll
 
 [https://parth3d.co.uk/splitting-anaglyph-images-in-python](https://parth3d.co.uk/splitting-anaglyph-images-in-python)
 
-And here's an example of the output: a side-by-side image of an old engine in Birmingham, UK.
+And here's an example of the output: a side-by-side image of part of an old engine in Birmingham, UK.
 
 ![The side-by-side output by the Python code](./glyphsplitwindow.png)
