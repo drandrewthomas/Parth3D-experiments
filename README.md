@@ -8,4 +8,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Splitting anaglyphs to side-by-side images in Python3.](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_anaglyph_splitting)
 
+* [Opening MPO 3D photos in Python 3 using Pillow](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_mpo_opening)
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
