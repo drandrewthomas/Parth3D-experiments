@@ -8,6 +8,8 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Splitting anaglyphs to side-by-side images in Python 3.](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_anaglyph_splitting)
 
-* [Opening MPO 3D photos in Python 3 using Pillow](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_mpo_opening)
+* [Opening MPO 3D photos in Python 3 using Pillow.](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_mpo_opening)
+
+* [Loading and interacting with 3D OBJ files in a web-page using P5.js.](https://github.com/drandrewthomas/Parth3D-experiments/blob/main/ufo_3d_p5js/readme.md)
 
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
