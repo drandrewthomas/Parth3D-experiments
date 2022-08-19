@@ -6,7 +6,7 @@ Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that s
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
-[https://parth3d.co.uk](https://parth3d.co.uk)
+[https://parth3d.co.uk/interactive-3d-models-in-a-web-page-using-p5-js](https://parth3d.co.uk/interactive-3d-models-in-a-web-page-using-p5-js)
 
 And here's a preview of what the code results in.
 
