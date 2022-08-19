@@ -1,4 +1,4 @@
-# Displaying Bender 3D models in a web page using P5.js
+# Interactive 3D models in a web page using P5.js
 
 Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that shows how to load OBJ 3D files saved by Blender in a web page using [P5.js](https://p5js.org). The example is interactive with a UFO that reacts to mouse clicking or touching.
 
