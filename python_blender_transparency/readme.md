@@ -6,7 +6,7 @@ To use the example code simply create a new scene-file with Blender 3, with a de
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
-[https://parth3d.co.uk/side-by-side-3d-to-anaglyph-in-python-3](https://parth3d.co.uk/side-by-side-3d-to-anaglyph-in-python-3)
+[https://parth3d.co.uk/transparent-backgrounds-in-blender-python-scripts](https://parth3d.co.uk/transparent-backgrounds-in-blender-python-scripts)
 
 And here's a simple example of what the code offers.
 
