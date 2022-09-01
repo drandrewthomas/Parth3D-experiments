@@ -12,4 +12,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Loading and interacting with 3D OBJ files in a web-page using P5.js.](https://github.com/drandrewthomas/Parth3D-experiments/blob/main/ufo_3d_p5js/readme.md)
 
+* [Creating Blender 3 renders with transparent backgrounds from a Python script](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_blender_transparency)
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
