@@ -14,6 +14,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Creating Blender 3 renders with transparent backgrounds from a Python script.](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_blender_transparency)
 
-* [3D printing Aruco tags with Python 3 and OpenSCAD.](https://parth3d.co.uk/3d-printing-aruco-tags-with-python-and-openscad)
+* [3D printing Aruco tags with Python 3 and OpenSCAD.](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_aruco_openscad)
 
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
