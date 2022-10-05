@@ -4,7 +4,7 @@ Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that s
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
-[[https://parth3d.co.uk](https://parth3d.co.uk/3d-printing-aruco-tags-with-python-and-openscad)]([https://parth3d.co.uk](https://parth3d.co.uk/3d-printing-aruco-tags-with-python-and-openscad))
+[https://parth3d.co.uk/3d-printing-aruco-tags-with-python-and-openscad](https://parth3d.co.uk/3d-printing-aruco-tags-with-python-and-openscad)
 
 And here's an example of the output: 3D printed Aruco tags detected by OpenCV.
 
