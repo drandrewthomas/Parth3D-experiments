@@ -16,4 +16,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [3D printing Aruco tags with Python 3 and OpenSCAD.](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_aruco_openscad)
 
+* [Plotting stereoscopic disparity, and the circle known as the horopter, in Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/pyton_horopter).
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
