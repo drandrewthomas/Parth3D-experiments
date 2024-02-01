@@ -6,6 +6,6 @@ The code was written for a Parth3D blog post that you can read at the link below
 
 [https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt](https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt)
 
-Below is an example screenshot showing a number of cube-mapped images trimmed and placed in Nomad Sculpt (note they are casting shadows onto each other as expected).
+Below is an example screenshot showing a number of cube-mapped images trimmed and placed in Nomad Sculpt (note they are casting shadows onto each other as expected). Please note that the image of Brunel used in examples was taken at the [SS Great Britain in Bristol](https://www.ssgreatbritain.org) and a visit is highly recommended.
 
 ![Example cubemapper scene in Nomad Sculpt](./cubemapperscene.png)
