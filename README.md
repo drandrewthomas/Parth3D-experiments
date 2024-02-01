@@ -18,4 +18,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Plotting stereoscopic disparity, and the circle known as the horopter, in Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/pyton_horopter).
 
+* [Creating Wavefront OBJ and MTL files to accompany image files, so they can be imported into Nomad Sculpt as photo assets for trimmig and even sculpting on](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_photo_assets).
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
