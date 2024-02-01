@@ -2,3 +2,4 @@
 
 xxx
 
+![Example cubemapper scene in Nomad Sculpt](./cubemapperscene.png)
