@@ -4,8 +4,8 @@ This is a simple piece of Python 3 code that can be used to create Wavefront OBJ
 
 The code was written for a Parth3D blog post that you can read at the link below:
 
-***
+[https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt](https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt)
 
-Below is an example screenshot showing a number of cube-mapped images trimmed and placed in Nomad Sculpt.
+Below is an example screenshot showing a number of cube-mapped images trimmed and placed in Nomad Sculpt (note they are casting shadows onto each other as expected).
 
 ![Example cubemapper scene in Nomad Sculpt](./cubemapperscene.png)
