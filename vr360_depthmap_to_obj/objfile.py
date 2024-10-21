@@ -1,7 +1,5 @@
 """
 objfile.py - A simple library for saving 3D model data to Wavefront OBJ files.
-Note that all faces must be triangulated before using this library.
-Normals are currently limited only to face normals.
 """
 
 import os
