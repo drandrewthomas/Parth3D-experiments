@@ -20,4 +20,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Creating Wavefront OBJ and MTL files from images for Nomad Sculpt in Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_photo_assets).
 
+* [](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/vr360_depthmap_to_obj).
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
