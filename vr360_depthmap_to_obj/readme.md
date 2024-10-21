@@ -1,6 +1,6 @@
 # Converting VR360 images and depth maps to OBJ files using Python 3
 
-This is a repository for a Python 3 example of how to create spherical 3D models from 360-degree photos. It allows the sphere vertices to be adjusted using a depthmap image, which in the example here was created using [Looking Glass Blocks](https://blocks.glass/). The adjusted sphjere is then saved to an OBJ file for importing into 3D software such as Blender.
+This is a repository for a Python 3 example of how to create spherical 3D models from 360-degree photos. It allows the sphere vertices to be adjusted using a depthmap image, which in the example here was created using [Looking Glass Blocks](https://blocks.glass/). The adjusted sphere is then saved to an OBJ file for importing into 3D software such as Blender.
 
 Two Python files are included. One, called objfile.py, is a small library for saving to OBJ files. It is used by the main simple_texball.py file, which when run should create an OBJ and MTL file in the same folder you placed the code in. Those files will automatically include details of the image file simpletexball_rgb.jpg as the image to render over the 3D shape. The vertices of the sphere in the OBJ file will have been adjusted to accord with simpletexball_depth.jpg, which is a monochrome depth map image. For your own images you can change the code to have different starting radius, end radius and depthmap dimensions.
 
