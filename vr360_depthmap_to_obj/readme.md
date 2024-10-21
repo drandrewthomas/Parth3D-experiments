@@ -12,3 +12,4 @@ The code is from a Parth3D blog post and you can access it at the link below:
 
 [https://parth3d.co.uk](https://parth3d.co.uk).
 
+Credits: Please note that the 360-degree photo used here was taken at the lovely [Parc Howard in Llanelli](https://www.discovercarmarthenshire.com/places/llanelli-the-millennium-coastal-park/parc-howard-museum-gardens), so please make sure you visit them in south Wales to say hello!
