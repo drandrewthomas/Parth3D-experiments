@@ -22,4 +22,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Converting VR360 images and depth maps to OBJ files using Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/vr360_depthmap_to_obj).
 
+* [OBJ to OpenSCAD bridges using Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/obj_to_scad_bridges).
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
