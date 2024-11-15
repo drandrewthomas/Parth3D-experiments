@@ -4,7 +4,7 @@ This is the code from a [Parth3D.co.uk](https://parth3d.co.uk/) blog post that s
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
-[************]()
+[https://parth3d.co.uk/obj-to-openscad-bridges-using-python-3](https://parth3d.co.uk/obj-to-openscad-bridges-using-python-3)
 
 Here's an example of the output: a cube with random jitter added to the vertices and with a hexagonal hole created using a difference operator.
 
