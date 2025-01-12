@@ -4,7 +4,7 @@ This is an update of a simple piece of Python 3 code that can be used to create 
 
 The code was written for a Parth3D blog post that you can read at the link below:
 
-[https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt](https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt)
+[https://parth3d.co.uk/making-textured-3d-digital-assets-using-depth-maps-and-python-3](https://parth3d.co.uk/making-textured-3d-digital-assets-using-depth-maps-and-python-3)
 
 Below is a screenshot showing the two examples included in the code after import into Nomad Sculpt on iOS.
 
