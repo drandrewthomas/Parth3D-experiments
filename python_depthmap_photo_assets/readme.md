@@ -13,4 +13,4 @@ Below is an example screenshot showing the two examples included in the code aft
 
 # Credits
 
-One of the examples is based on a photo of a lovely 1968 sculpture by Mervyn Baldwin at the [Newport Museum and Art Gallery](https://www.newport.gov.uk/heritage/en/Museum-Art-Gallery/Museum-Art-Gallery.aspx) in South Wales entitled 'A column fallen under its own stone'. The depth map was made using the [LINK Looking Glass Blocks web app - https://blocks.glass]. Together with the Python code these are all we need.
+One of the examples is based on a photo of a lovely 1968 sculpture by Mervyn Baldwin at the [Newport Museum and Art Gallery](https://www.newport.gov.uk/heritage/en/Museum-Art-Gallery/Museum-Art-Gallery.aspx) in South Wales entitled 'A column fallen under its own stone'. The depth map was made using the [Looking Glass Blocks web app](https://blocks.glass). Together with the Python code these are all we need.
