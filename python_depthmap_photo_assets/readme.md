@@ -6,7 +6,7 @@ The code was written for a Parth3D blog post that you can read at the link below
 
 [https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt](https://parth3d.co.uk/creating-3d-photo-assets-for-nomad-sculpt)
 
-Below is an example screenshot showing the two examples included in the code after import into Nomad Sculpt on iOS.
+Below is a screenshot showing the two examples included in the code after import into Nomad Sculpt on iOS.
 
 ![Example scenes in Nomad Sculpt](./depthobj_innomad.jpg)
 
