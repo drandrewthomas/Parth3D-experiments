@@ -6,6 +6,6 @@ The code here was provided in a Parth3D blog post which you can find at the foll
 
 [https://parth3d.co.uk/nomad-sculpt-side-by-side-stereo-rendering](https://parth3d.co.uk/nomad-sculpt-side-by-side-stereo-rendering)
 
-And here's an example of the output: an anaglyph of part of Druids Circle in North Wales.
+And here's an example of the output: a stereoscopic spiky thing. You can find the Nomad Sculpt file for this example in this repo, together with the Python 3 code.
 
-![The anaglyph output by the Python code](./anaglyph_small.jpg)
+![The stereoscopic output in Pythonista](./nomadstereo_pythonista.png)
