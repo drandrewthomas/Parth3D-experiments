@@ -24,4 +24,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [OBJ to OpenSCAD bridges using Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/obj_to_scad_bridges).
 
+* [Nomad Sculpt side-by-side stereo rendering using Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_nomadsculpt_stereoscopic_renders)
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
