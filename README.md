@@ -26,6 +26,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Nomad Sculpt side-by-side stereo rendering using Python 3](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_nomadsculpt_stereoscopic_renders)
 
-* [Creating dolly zoom effects using Python in Blender]()
+* [Creating dolly zoom effects using Python in Blender](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_blender_dolly_zoom)
 
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
