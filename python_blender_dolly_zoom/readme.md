@@ -6,4 +6,6 @@ The code here was provided in a Parth3D blog post which you can find at the foll
 
 [https://parth3d.co.uk/openscad-with-ezdxf-and-python3](https://parth3d.co.uk/openscad-with-ezdxf-and-python3)
 
-![Screenshot of the OpenSCAD window](./ezdxfopenscad.png)
+Some sample frames from the start, middle and end of the rendering are shown below, illustrating how the subject (the witch) stays the same size, but the background appears to zoom in and out over time.
+
+![Some sample frames rendered by the Python code](./bpydollyframes.png)
