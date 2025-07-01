@@ -1,11 +1,11 @@
 # Stereoscopic camera settings in Blender Python
 
-Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that shows how to render a short movie demonstratting how to create a dolly zoom effect with Python/BPY.
+Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that shows how to access and change stereoscopic camera settings using Blender Python (BPY).
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
-[https://parth3d.co.uk/dolly-zooms-in-blender-using-bpy-and-python](https://parth3d.co.uk/dolly-zooms-in-blender-using-bpy-and-python)
+[https://parth3d.co.uk/stereoscopic-camera-settings-in-blender-python](https://parth3d.co.uk/stereoscopic-camera-settings-in-blender-python)
 
-Some sample frames from the start, middle and end of the rendering are shown below, illustrating how the subject (the witch) stays the same size, but the background appears to zoom in and out over time.
+The Python code is an example of how to control stereoscopic camera settings in Blender Python (BPY) and creates a short 3D movie showing a dolly zoom. It illustrates change in stereoscopic depth with camera distance during zoom.
 
-![Some sample frames rendered by the Python code](./bpydollyframes.png)
+![Example usage of the code - a frame from a stereoscopic dolly zoom movie](./bpystereo_feature.png)
