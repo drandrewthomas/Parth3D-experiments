@@ -28,4 +28,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Creating dolly zoom effects using Python in Blender](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_blender_dolly_zoom)
 
+* [Stereoscopic camera settings in Blender Python](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_blender_stereo_camera_settings)
+
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
