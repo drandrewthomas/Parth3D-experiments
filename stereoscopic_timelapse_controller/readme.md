@@ -10,4 +10,4 @@ Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that s
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
-[https://parth3d.co.uk/stereoscopic-camera-settings-in-blender-python](https://parth3d.co.uk/stereoscopic-camera-settings-in-blender-python)
+[https://parth3d.co.uk/stereoscopic-timelapses-with-a-microcontroller-and-an-xreal-beam-pro](https://parth3d.co.uk/stereoscopic-timelapses-with-a-microcontroller-and-an-xreal-beam-pro)
