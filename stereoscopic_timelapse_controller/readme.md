@@ -6,7 +6,7 @@ Here you find a code example from [Parth3D.co.uk](https://parth3d.co.uk/) that s
 
 * The Python file is an example of how to process and composite the image frames from the Beam Pro as well as of how to rename the files to have their order included in the filename (Beam Pro camera app images are named based on the date and time).
 
-* A Windows batch file illustrating how to use FFMPEG to stitch all the individual image frames (as output by the Python script) into a single MP4 movie file.
+* A Windows batch file illustrating how to use FFMPEG to stitch all the individual image frames (as output by the Python script) into a single MP4 movie file. Note it will need editing for Linux and MacOS use, especially in terms of the separator.
 
 The code here was provided in a Parth3D blog post which you can find at the following URL:
 
