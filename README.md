@@ -30,6 +30,6 @@ This repo contains coding experiments from blog posts on the [Parth3D.co.uk](htt
 
 * [Stereoscopic camera settings in Blender Python](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/python_blender_stereo_camera_settings)
 
-* [Stereoscopic timelapse controller using an ESP32 microcontroller](https://github.com/drandrewthomas/Parth3D-experiments/blob/main/stereoscopic_timelapse_controller/readme.md)
+* [Stereoscopic timelapse controller using an ESP32 microcontroller](https://github.com/drandrewthomas/Parth3D-experiments/tree/main/stereoscopic_timelapse_controller)
 
 Unless otherwise stated for individual code items, all of the code is released under the permissive MIT license.
